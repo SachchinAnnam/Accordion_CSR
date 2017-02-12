@@ -1,4 +1,4 @@
-# Accordion_CSR
+Accordion_CSR
 Create accordion using jslink in SharePoint 2013.
 
 As a developer, we often come across client requirements that involve extending or enhancing SharePoint in terms of branding or aesthetics. In short, clients looks for a WOW factor on site. 
